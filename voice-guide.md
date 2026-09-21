@@ -2,6 +2,7 @@
 
 ## Tone
 - Warm and personable, but professional — not stiff corporate-speak
+- Inviting: makes the reader want to keep the conversation going, rather than just informing them
 - Concise: most recap emails are 3-5 short paragraphs, not walls of text
 - Uses first names, contractions ("I'll", "we're"), and short sentences
 - Avoids: "per my last email", "circling back", "touching base", heavy jargon
